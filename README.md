@@ -4,17 +4,17 @@ An implementation of Discord's rich presence in Golang for Linux, macOS and Wind
 
 ## Installation
 
-Install `github.com/hugolgst/rich-go`:
+Install `github.com/lieuweberg/rich-go`:
 
 ```
-$ go get github.com/hugolgst/rich-go
+$ go get github.com/lieuweberg/rich-go
 ```
 
 ## Usage
 
 First of all import rich-go
 ```golang
-import "github.com/hugolgst/rich-go/client"
+import "github.com/lieuweberg/rich-go/client"
 ```
 
 then login by sending the first handshake
@@ -53,7 +53,7 @@ More details in the [example](https://github.com/ananagame/rich-go/blob/master/e
 
 ## Contributing
 
-1. Fork it (https://github.com/hugolgst/rich-go/fork)
+1. Fork it (https://github.com/lieuweberg/rich-go/fork)
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
